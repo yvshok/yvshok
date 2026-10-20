@@ -5,7 +5,6 @@ Specializing in building robust, secure, and modern digital solutions, I focus o
 
 With a multidisciplinary mindset that blends software development, cybersecurity awareness, and problem-solving, I approach technology from both builder and defender perspectives. This allows me to integrate security-conscious thinking throughout the entire lifecycle of a project from planning and architecture to development, deployment, and continuous improvement. By emphasizing reliability, usability, and proactive risk reduction, I aim to deliver systems that do more than function they are designed to endure, evolve, and inspire confidence.
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=Yoswell&label=yossb&color=red)]()
 [![Pentester](https://img.shields.io/badge/PENTESTER-gray)]()
 [![Developer](https://img.shields.io/badge/FULL-STACK-blue)]()
 [![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-gray)]()
